@@ -1,4 +1,4 @@
-# Ecommerce
+# E-commerce
 
 ## To run the project following are the quick steps:
 
