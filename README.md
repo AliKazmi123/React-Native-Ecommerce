@@ -1,4 +1,4 @@
-# Mini e-Bay
+# Ecommerce
 
 ## To run the project following are the quick steps:
 
